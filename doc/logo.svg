@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="499pt" height="109pt" viewBox="0.00 0.00 498.76 109.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 105)">
+<title>%0</title>
+<!-- a -->
+<g id="node1" class="node">
+<title>a</title>
+<path fill="none" stroke="#ffa500" stroke-width="1.5" d="M12,-.5C12,-.5 478.7638,-.5 478.7638,-.5 484.7638,-.5 490.7638,-6.5 490.7638,-12.5 490.7638,-12.5 490.7638,-88.5 490.7638,-88.5 490.7638,-94.5 484.7638,-100.5 478.7638,-100.5 478.7638,-100.5 12,-100.5 12,-100.5 6,-100.5 0,-94.5 0,-88.5 0,-88.5 0,-12.5 0,-12.5 0,-6.5 6,-.5 12,-.5"/>
+<text text-anchor="middle" x="245.3819" y="-83.9" font-family="italic" font-size="14.00" fill="#4169e1">SuperSubScripts.jl </text>
+<polyline fill="none" stroke="#ffa500" stroke-width="1.5" points="0,-75.7 490.7638,-75.7 "/>
+<text text-anchor="middle" x="245.3819" y="-59.1" font-family="italic" font-size="14.00" fill="#4169e1">₀₁₂₃₄₅₆₇₈₉⁰¹²³⁴⁵⁶⁷⁸⁹</text>
+<text text-anchor="middle" x="245.3819" y="-42.3" font-family="italic" font-size="14.00" fill="#4169e1">ₐbcdₑfgₕᵢⱼₖₗₘₙₒₚqᵣₛₜᵤᵥwₓyz</text>
+<text text-anchor="middle" x="245.3819" y="-25.5" font-family="italic" font-size="14.00" fill="#4169e1">ᵃᵇᶜᵈᵉᶠᵍʰⁱʲᵏˡᵐⁿᵒᵖqʳˢᵗᵘᵛʷˣʸᶻ</text>
+<text text-anchor="middle" x="245.3819" y="-8.7" font-family="italic" font-size="14.00" fill="#4169e1">ᴬᴮCᴰᴱFᴳᴴᴵᴶᴷᴸᴹᴺᴼᴾQᴿSᵀᵁⱽᵂXYZ</text>
+</g>
+</g>
+</svg>
