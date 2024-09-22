@@ -1,0 +1,18 @@
+graph
+{
+    rankdir = LR;
+    ratio = full;
+    bgcolor = "transparent";
+    node [shape=text,
+          color=orange,
+          fontcolor="royalblue",
+          fontname = "italic",
+          shape = "Mrecord",
+          penwidth = 2.0];
+
+    "a" [label="SuperSubScripts.jl \n | {₀₁₂₃₄₅₆₇₈₉ ⁰¹²³⁴⁵⁶⁷⁸⁹\n
+                                         ₐbcdₑfgₕᵢⱼₖₗₘₙₒₚqᵣₛₜᵤᵥwₓyz\n
+                                         ᵃᵇᶜᵈᵉᶠᵍʰⁱʲᵏˡᵐⁿᵒᵖqʳˢᵗᵘᵛʷˣʸᶻ\n
+                                         ᴬᴮCᴰᴱFᴳᴴᴵᴶᴷᴸᴹᴺᴼᴾQᴿSᵀᵁⱽᵂXYZ}"];
+}
+
